@@ -1,0 +1,10 @@
+/*登录页面*/
+.loginbg{width: 1190px; margin:50px auto;position: relative;}
+.loginbg img{display: block;width: 1190px;height: 600px;}
+.login_box{width:300px; height:240px;background:#fff;position: absolute;right:60px;top:90px;padding: 60px 30px 80px 30px;font-size: 14px;}
+.title{font-size: 16px;font-weight: bold;color: #3c3c3c;}
+.text_box{margin: 20px 0;}
+.text_box input{outline: none;width: 244px;height: 30px;line-height:30px;text-indent: 10px;vertical-align: middle;}
+.point a{font-size: 12px;margin-right: 4px;}
+.button{color: #fff;background: #c40000;font-weight: bold;border: none;width: 244px;height: 30px;margin: 20px auto;display: block;cursor: pointer;}
+
