@@ -38,9 +38,9 @@ $(function(){
 			scroll(i);
 		})
 			$slide.find(".bg").mouseover(function(){
-				$(this).find("div").stop().show();
+				$(this).find("span").stop().show();
 			}).mouseout(function(){
-				$(this).find("div").stop().hide();
+				$(this).find("span").stop().hide();
 			})
 	})();
 	function scroll(index){
